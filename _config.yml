@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Senthil Kumar N
+title: NSK
 email: senthil@dimitra.io
 description: >- # this means to ignore newlines until "baseurl:"
   Unveiling insights from geospatial data 🌏 with AI 🤖.
@@ -32,7 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima: dark
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
