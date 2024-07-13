@@ -24,7 +24,7 @@ author:
   email: senthil@dimitra.io
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Unveiling insights from geospatial data 🌏 with AI 🤖.
+  Curious Geospatial Data Scientist exploring the power of AI 🌏🤖.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://senthilkumar-dimitra.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -33,13 +33,13 @@ url: "https://senthilkumar-dimitra.github.io/" # the base hostname & protocol fo
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-feed 
 
 minima:
+  social_links:
+     - { platform: github,         user_url: "https://github.com/senthilkumar-dimitra" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/senthilkumar-n/" }
   skin: dark
-
-social_links:
-   - { platform: github,         user_url: "https://github.com/senthilkumar-dimitra" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
