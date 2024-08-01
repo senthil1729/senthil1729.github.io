@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Senthil Kumar, a Jr. Geospatial Data Scientist at [Dimitra Technology](https://dimitra.io/) building landcover maps and deforestation detection models using classic ML algorithms using satellite imageries. I have interned at [Microlabs](https://microserv.in/), where we built an open-source library [PyHRM](https://github.com/FEUSION/PyHRM) and an automation tool [Extractor](https://github.com/FEUSION/Extractor). I've finished my master's in Data Analytics at Bharathiar University and bachelors' in Mathematics at Bishop Heber College.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, I'm exploring and learning the AI4Geo field and contributing to the GeoML open-source projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you are interested in collaborations on AI/ML projects, please contact me at [senthilkumarnallendran@gmail.com](mailto:senthilkumarnallendran@gmail.com)
