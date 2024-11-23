@@ -41,6 +41,7 @@ minima:
      - { platform: linkedin,       user_url: "https://www.linkedin.com/in/senthilkumar-n/" }
   skin: dark
 
+google_analytics: G-33WYETPVZG
 
 future: true 
 
