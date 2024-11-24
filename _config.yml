@@ -24,7 +24,7 @@ author:
   email: senthil@dimitra.io
 
 description: >- # this means to ignore newlines until "baseurl:"
-  A Curious Geospatial Data Scientist exploring the power of AI 🌏🤖.
+  GeoAI 🌏🤖
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://senthilkumar-dimitra.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
