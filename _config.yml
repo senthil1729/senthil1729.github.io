@@ -21,9 +21,10 @@
 title: NSK
 author:
   name: Senthil Kumar N
+  email: senthilkumarnallendran@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  GeoAI 🌏🤖
+  ML | Math
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://senthil1729.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
