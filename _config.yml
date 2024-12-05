@@ -21,14 +21,13 @@
 title: NSK
 author:
   name: Senthil Kumar N
-  email: senthil@dimitra.io
 
 description: >- # this means to ignore newlines until "baseurl:"
   GeoAI 🌏🤖
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://senthilkumar-dimitra.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://senthil1729.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username:  senthilkumar-dimitra
+# github_username:  senthil1729
 
 # Build settings
 theme: minima
@@ -37,7 +36,7 @@ plugins:
 
 minima:
   social_links:
-     - { platform: github,         user_url: "https://github.com/senthilkumar-dimitra" }
+     - { platform: github,         user_url: "https://github.com/senthil1729" }
      - { platform: linkedin,       user_url: "https://www.linkedin.com/in/senthilkumar-n/" }
   skin: dark
 
