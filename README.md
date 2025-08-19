@@ -1,1 +1,1 @@
-My Weblog
+My Weblog about learnings and exploration of Geospatial AI/ML
